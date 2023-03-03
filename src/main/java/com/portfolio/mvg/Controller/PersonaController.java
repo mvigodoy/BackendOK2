@@ -2,7 +2,7 @@
 package com.portfolio.mvg.Controller;
 
 import com.portfolio.mvg.Entity.Persona;
-import com.portfolio.mvg.Service.IPersonaService;
+import com.portfolio.mvg.Interface.IPersonaService;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.access.prepost.PreAuthorize;
@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@CrossOrigin(origins = {"https://frontendmvg.web.app","http://localhost:4200"})
+@CrossOrigin(origins = {"https://frontendargp-7563c.web.app","http://localhost:4200"})
 public class PersonaController {
     @Autowired IPersonaService ipersonaService;
     

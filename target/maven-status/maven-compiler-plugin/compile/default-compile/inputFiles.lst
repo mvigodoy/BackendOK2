@@ -5,6 +5,7 @@ C:\Users\Vicky\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal-Argent
 C:\Users\Vicky\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal-ArgentinaPrograma-Backend\src\main\java\com\portfolio\mvg\Entity\Educacion.java
 C:\Users\Vicky\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal-ArgentinaPrograma-Backend\src\main\java\com\portfolio\mvg\Dto\dtoExperiencia.java
 C:\Users\Vicky\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal-ArgentinaPrograma-Backend\src\main\java\com\portfolio\mvg\Controller\CEducacion.java
+C:\Users\Vicky\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal-ArgentinaPrograma-Backend\src\main\java\com\portfolio\mvg\Interface\IPersonaService.java
 C:\Users\Vicky\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal-ArgentinaPrograma-Backend\src\main\java\com\portfolio\mvg\Security\jwt\JwtEntryPoint.java
 C:\Users\Vicky\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal-ArgentinaPrograma-Backend\src\main\java\com\portfolio\mvg\Entity\Experiencia.java
 C:\Users\Vicky\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal-ArgentinaPrograma-Backend\src\main\java\com\portfolio\mvg\Security\jwt\JwtProvider.java
@@ -21,7 +22,6 @@ C:\Users\Vicky\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal-Argent
 C:\Users\Vicky\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal-ArgentinaPrograma-Backend\src\main\java\com\portfolio\mvg\Repository\RExperiencia.java
 C:\Users\Vicky\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal-ArgentinaPrograma-Backend\src\main\java\com\portfolio\mvg\Security\jwt\JwtTokenFilter.java
 C:\Users\Vicky\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal-ArgentinaPrograma-Backend\src\main\java\com\portfolio\mvg\Service\SExperiencia.java
-C:\Users\Vicky\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal-ArgentinaPrograma-Backend\src\main\java\com\portfolio\mvg\Service\IPersonaService.java
 C:\Users\Vicky\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal-ArgentinaPrograma-Backend\src\main\java\com\portfolio\mvg\Controller\PersonaController.java
 C:\Users\Vicky\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal-ArgentinaPrograma-Backend\src\main\java\com\portfolio\mvg\Entity\Persona.java
 C:\Users\Vicky\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal-ArgentinaPrograma-Backend\src\main\java\com\portfolio\mvg\Security\Controller\Mensaje.java

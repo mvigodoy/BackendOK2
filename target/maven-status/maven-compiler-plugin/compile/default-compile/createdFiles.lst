@@ -3,6 +3,7 @@ com\portfolio\mvg\Repository\IPersonaRepository.class
 com\portfolio\mvg\Security\Service\UsuarioService.class
 com\portfolio\mvg\Service\Seducacion.class
 com\portfolio\mvg\MvgApplication.class
+com\portfolio\mvg\Interface\IPersonaService.class
 com\portfolio\mvg\Service\SExperiencia.class
 com\portfolio\mvg\Security\MainSecurity.class
 com\portfolio\mvg\Security\Controller\Mensaje.class
@@ -21,7 +22,6 @@ com\portfolio\mvg\Security\jwt\JwtEntryPoint.class
 com\portfolio\mvg\Repository\RExperiencia.class
 com\portfolio\mvg\Security\Dto\NuevoUsuario.class
 com\portfolio\mvg\Service\ImpPersonaService.class
-com\portfolio\mvg\Service\IPersonaService.class
 com\portfolio\mvg\Entity\Persona.class
 com\portfolio\mvg\Security\Controller\AuthController.class
 com\portfolio\mvg\Dto\dtoExperiencia.class
